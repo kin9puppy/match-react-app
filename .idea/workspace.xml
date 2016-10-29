@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="46c67791-a0f5-4568-9730-8a99eee9db05" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/react_app_node_modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/support/jasmine.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/test-file-spec.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spec/test_class_spec.js" />
+    </list>
+    <ignored path="react-app.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="react-app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="289">
+                <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+                <folding>
+                  <marker date="1477782350927" expanded="true" signature="7545:7608" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="7574:7606" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="8808:8839" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="8821:8837" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="8945:9010" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="9089:9144" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="9102:9142" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="10516:10536" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="10572:10629" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="10711:10816" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="10724:10814" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="11895:11961" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="11994:12281" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="12795:12845" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="12952:13039" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="13258:13298" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="15634:15899" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="15638:15832" placeholder="//..." />
+                  <marker date="1477782350927" expanded="true" signature="17095:17179" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="20323:20470" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="20410:20463" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="20612:20638" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="26992:27117" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="27001:27117" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="31074:31088" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="31074:31141" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="32006:32084" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="32123:32168" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="32123:32204" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="33049:33127" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="33166:33178" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="33166:33189" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="34100:34178" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="34216:34251" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="34216:34406" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="35309:35359" placeholder="..." />
+                  <marker date="1477782350927" expanded="true" signature="35832:35898" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="38110:38171" placeholder="{...}" />
+                  <marker date="1477782350927" expanded="true" signature="41359:41409" placeholder="{...}" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="App.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/App.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".npmignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/.npmignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="jasmine.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_class_spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/test_class_spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test-file-spec.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spec/test-file-spec.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chrome.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/chrome.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="417" column="72" selection-start-line="417" selection-start-column="72" selection-end-line="417" selection-end-column="72" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="promise.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/promise.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="2288" column="77" selection-start-line="2288" selection-start-column="59" selection-end-line="2288" selection-end-column="77" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/spec/test-file.js" />
+        <option value="$PROJECT_DIR$/spec/test_class_spec.js" />
+        <option value="$PROJECT_DIR$/spec/test-file-spec.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spec" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="react-app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node_modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="selenium-webdriver" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Michael\Desktop\apps\react-app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui>bdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="46c67791-a0f5-4568-9730-8a99eee9db05" name="Default" comment="" />
+      <created>1477773322046</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1477773322046</updated>
+      <workItem from="1477773324056" duration="167000" />
+      <workItem from="1477773628157" duration="7485000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7652000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1477782350927" expanded="true" signature="7545:7608" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="7574:7606" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="8808:8839" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="8821:8837" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="8945:9010" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="9089:9144" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="9102:9142" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="10516:10536" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="10572:10629" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="10711:10816" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="10724:10814" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="11895:11961" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="11994:12281" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="12795:12845" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="12952:13039" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="13258:13298" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="15634:15899" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="15638:15832" placeholder="//..." />
+              <marker date="1477782350927" expanded="true" signature="17095:17179" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="20323:20470" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="20410:20463" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="20612:20638" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="26992:27117" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="27001:27117" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="31074:31088" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="31074:31141" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="32006:32084" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="32123:32168" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="32123:32204" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="33049:33127" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="33166:33178" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="33166:33189" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="34100:34178" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="34216:34251" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="34216:34406" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="35309:35359" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="35832:35898" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="38110:38171" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="41359:41409" placeholder="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/promise.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="2288" column="77" selection-start-line="2288" selection-start-column="59" selection-end-line="2288" selection-end-column="77" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/chrome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="417" column="72" selection-start-line="417" selection-start-column="72" selection-end-line="417" selection-end-column="72" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/test_class_spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="39" selection-end-line="1" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/test-file-spec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="289">
+            <caret line="17" column="39" selection-start-line="17" selection-start-column="39" selection-end-line="17" selection-end-column="39" />
+            <folding>
+              <marker date="1477782350927" expanded="true" signature="7545:7608" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="7574:7606" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="8808:8839" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="8821:8837" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="8945:9010" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="9089:9144" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="9102:9142" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="10516:10536" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="10572:10629" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="10711:10816" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="10724:10814" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="11895:11961" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="11994:12281" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="12795:12845" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="12952:13039" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="13258:13298" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="15634:15899" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="15638:15832" placeholder="//..." />
+              <marker date="1477782350927" expanded="true" signature="17095:17179" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="20323:20470" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="20410:20463" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="20612:20638" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="26992:27117" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="27001:27117" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="31074:31088" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="31074:31141" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="32006:32084" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="32123:32168" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="32123:32204" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="33049:33127" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="33166:33178" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="33166:33189" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="34100:34178" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="34216:34251" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="34216:34406" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="35309:35359" placeholder="..." />
+              <marker date="1477782350927" expanded="true" signature="35832:35898" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="38110:38171" placeholder="{...}" />
+              <marker date="1477782350927" expanded="true" signature="41359:41409" placeholder="{...}" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/.npmignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
