@@ -5,6 +5,11 @@ Ex: C:\Windows\
 
 - To start Selenium web-drvier: `java -jar selenium-server-standalone-2.53.1.jar` (from project dir)
 
+#Jasmine
+
+ - Run `node-jasmine spec\*spec.js` to run tests
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
