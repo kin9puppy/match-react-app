@@ -1,9 +1,22 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-import './index.css';
+
+import { createStore } from 'redux';
+import { Provider, connect } from 'react-redux';
+import reducer from './reducer/reducer.js';    
+
+let ConnectedApp = connect(
+    state => {
+        return {
+            store: state
+        }
+    }
+)(App);
 
 ReactDOM.render(
-  <App />,
+    <Provider store={createStore(reducer)}>
+        <ConnectedApp />
+    </Provider>,
   document.getElementById('root')
 );

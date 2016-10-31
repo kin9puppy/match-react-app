@@ -1,0 +1,70 @@
+html {
+  background-color: #f8f8f8;
+}
+body{
+  padding: 1rem;
+  padding-bottom: 8rem;
+  padding-top: 2rem;
+  margin-top:1.5rem;
+  margin-bottom:5rem;
+}
+.App {
+}
+.header {
+  color: #006dcc;
+  font-family: sans-serif;
+}
+.header img {
+  max-width: 5rem;
+  display: inline-block;
+}
+.header h2 {
+  display: inline-block;
+  font-size: 2rem;
+  vertical-align: bottom;
+  margin-left: 1.25rem;
+}
+.main-img img {
+  display:block;
+  max-width:100%;
+  height:auto;
+}
+.little-box{
+  width:100px;
+  height:100px;
+  overflow:hidden;
+  cursor: pointer;
+  display: inline-block;
+}
+.filter-options, .main-img{
+  margin-top: 1rem;
+}
+.little-box-link{
+  display: inline-block;
+  margin: .25rem;
+}
+.little-box img{
+  width:100%;
+  height: auto;
+}
+.name-header{
+  display: block;
+  color: #767676;
+  font-weight: 100;
+  font-size: 2rem;
+  font-family: sans-serif;
+  border-top: 1px solid #e2e2e2;
+  padding-top:1rem;
+  padding-bottom:1rem;
+  margin-top:1rem;
+}
+.about {
+  margin-top: 1rem;
+  padding-top: 1rem;
+  border-top: 1px solid #e2e2e2;
+  color: #767676;
+  max-width: 34rem;
+}
+.about b{
+  color: #006dcc;
+}
