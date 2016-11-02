@@ -2,7 +2,7 @@
 This is a fun react app..
 
 ##Example can be viewed at:
-`http:www.icycap.com/match`
+[http:www.icycap.com/match](http:www.icycap.com/match)
 
 ##In the project directory, you can run:
 
