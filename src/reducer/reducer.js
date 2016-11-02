@@ -1,8 +1,11 @@
-export default function reducer(state={count: 0}, action) {
-    let count = state.count;
+export default function reducer(state={filter: {}}, action) { 
     switch(action.type){
-        case 'click':
-            return {count: count+1};
+        case 'SET_FILTER':
+            const newValue = {
+                prevOptions: state.filter.options,
+                ...action.value
+            }
+            return { filter: newValue };
         default:
             return state;
     }

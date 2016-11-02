@@ -1,6 +1,7 @@
 {
   "name": "react-app",
   "version": "0.1.0",
+  "homepage": "http://www.icycap.com/match",
   "private": true,
   "devDependencies": {
     "react-scripts": "0.7.0"
@@ -9,7 +10,8 @@
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "react-redux": "^4.4.5",
-    "redux": "^3.6.0"
+    "redux": "^3.6.0",
+    "jasmine": "*"
   },
   "scripts": {
     "start": "react-scripts start",

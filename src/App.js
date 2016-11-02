@@ -1,72 +1,53 @@
 import React, {Component} from 'react';
+import FilterSelector from './App/FilterSelector.js'
+import MainImage from './App/MainImage.js'
 
-class App extends Component {
+export default class App extends Component {
 
-    _onClick(){
-        this.props.dispatch({type: 'click'});
-    }
-
-    render() {
+    render() { 
+        const { dispatch, store } = this.props;
         return (
             <div className="App">
                 <div className="container">
                     <div className="row">
                         <div className="header">
                             <img src="img/match_logo.png"/>
-                            <h2>Match Halloween</h2>
+                            <h2>Match - Filter Maker</h2> 
                         </div>
                     </div>
-                    <div className="row name-header" onClick={this._onClick.bind(this)}>
-                        Jordan Baker {this.props.store.count}
+                    <div id="user-fullname" className="row name-header">
+                        Jordan Baker
                     </div>
                     <div className="row main">
-                        <div className="col-md-4 main-img">
-                            <img src="img/girl.jpg" data-caman="saturation(-10) brightness(20) vignette('10%')"/>
-                        </div>
+                        <MainImage
+                            store={store}
+                        />
                         <div className="col-md-8 filter-options">
                             <div className="row">
-                                <a className="little-box-link">
-                                    <div className="little-box">
-                                        <img src="img/girl.jpg"/>
-                                    </div>
-                                    <div>No Filter</div>
-                                </a>
-                                <a className="little-box-link">
-                                    <div className="little-box">
-                                        <img src="img/girl.jpg"
-                                             data-caman="saturation(-10) brightness(20) vignette('10%')"/>
-                                    </div>
-                                    <div>Airy</div>
-                                </a>
-                                <a className="little-box-link">
-                                    <div className="little-box">
-                                        <img src="img/girl.jpg"
-                                             data-caman="saturation(20) brightness(-10) vignette('30%')"/>
-                                    </div>
-                                    <div>Dark</div>
-                                </a>
-                                <a className="little-box-link">
-                                    <div className="little-box">
-                                        <img src="img/girl.jpg"
-                                             data-caman="saturation(-10) brightness(20) vignette('10%')"/>
-                                    </div>
-                                    <div>Airy</div>
-                                </a>
-                                <a className="little-box-link">
-                                    <div className="little-box">
-                                        <img src="img/girl.jpg"
-                                             data-caman="saturation(-10) brightness(20) vignette('10%')"/>
-                                    </div>
-                                    <div>Airy</div>
-                                </a>
-                                <a className="little-box-link">
-                                    <div className="little-box">
-                                        <img src="img/girl.jpg"
-                                             data-caman="saturation(-10) brightness(20) vignette('10%')"/>
-                                    </div>
-                                    <div>Airy</div>
-                                </a>
-
+                                <FilterSelector
+                                    dispatch={dispatch}
+                                    name='none'
+                                />
+                                <FilterSelector
+                                    dispatch={dispatch}
+                                    name='pomegranate'
+                                />
+                                <FilterSelector 
+                                    dispatch={dispatch}
+                                    name='millenium_q12'
+                                />
+                                <FilterSelector
+                                    dispatch={dispatch}
+                                    name='downwire'
+                                />
+                                <FilterSelector
+                                    dispatch={dispatch}
+                                    name='colawash'
+                                />
+                                <FilterSelector
+                                    dispatch={dispatch}
+                                    name='honeycrisp'
+                                />
                             </div>
                             <div className="row about">
                                 <div><b>Age:</b> 29</div>
@@ -84,5 +65,4 @@ class App extends Component {
         );
     }
 }
-
-export default App;
+ 
