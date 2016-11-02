@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="46c67791-a0f5-4568-9730-8a99eee9db05" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App/FilterSelector.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App/MainImage.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/App/filter-selector/filter-options.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/chromedriver.exe" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/test-file-2-spec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/spec/test-file-spec.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/test-file-1-spec.js" afterPath="$PROJECT_DIR$/spec/test-file-1-spec.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/App.js" afterPath="$PROJECT_DIR$/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/reducer/reducer.js" afterPath="$PROJECT_DIR$/src/reducer/reducer.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="react-app.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -43,56 +33,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="85">
-                <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-                <folding>
-                  <marker date="1477784846442" expanded="true" signature="7606:7669" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="7635:7667" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="8869:8900" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="8882:8898" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="9006:9071" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="9150:9205" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="9163:9203" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="10577:10597" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="10633:10690" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="10772:10877" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="10785:10875" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="11956:12022" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="12055:12342" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="12856:12906" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="13013:13100" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="13319:13359" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="15695:15960" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="15699:15893" placeholder="//..." />
-                  <marker date="1477784846442" expanded="true" signature="17156:17240" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="20384:20531" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="20471:20524" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="20673:20699" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="27053:27178" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="27062:27178" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="31135:31202" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="32067:32145" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="32184:32265" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="33110:33188" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="33227:33250" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="34161:34239" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="34277:34467" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="35370:35420" placeholder="..." />
-                  <marker date="1477784846442" expanded="true" signature="35893:35959" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="38171:38232" placeholder="{...}" />
-                  <marker date="1477784846442" expanded="true" signature="41420:41470" placeholder="{...}" />
-                </folding>
+              <first_editor relative-caret-position="153">
+                <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="374">
@@ -112,7 +66,6 @@
       <list>
         <option value="$PROJECT_DIR$/spec/test-file.js" />
         <option value="$PROJECT_DIR$/spec/test_class_spec.js" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/spec/spec-helper.js" />
         <option value="$PROJECT_DIR$/spec/test-file-spec.js" />
         <option value="$PROJECT_DIR$/spec/test-file-2-spec.js" />
@@ -131,6 +84,7 @@
         <option value="$PROJECT_DIR$/src/App/FilterSelector.js" />
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -189,20 +143,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="match-react-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="match-react-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="match-react-app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="build" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -307,12 +247,12 @@
       <workItem from="1477942360613" duration="473000" />
       <workItem from="1478045581412" duration="12161000" />
       <workItem from="1478058797624" duration="106000" />
-      <workItem from="1478059062305" duration="993000" />
+      <workItem from="1478059062305" duration="1470000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39141000" />
+    <option name="totallyTimeSpent" value="39618000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -624,58 +564,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="85">
-            <caret line="125" column="0" selection-start-line="125" selection-start-column="0" selection-end-line="125" selection-end-column="0" />
-            <folding>
-              <marker date="1477784846442" expanded="true" signature="7606:7669" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="7635:7667" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="8869:8900" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="8882:8898" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="9006:9071" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="9150:9205" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="9163:9203" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="10577:10597" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="10633:10690" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="10772:10877" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="10785:10875" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="11956:12022" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="12055:12342" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="12856:12906" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="13013:13100" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="13319:13359" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="15695:15960" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="15699:15893" placeholder="//..." />
-              <marker date="1477784846442" expanded="true" signature="17156:17240" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="20384:20531" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="20471:20524" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="20673:20699" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="27053:27178" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="27062:27178" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="31135:31202" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="32067:32145" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="32184:32265" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="33110:33188" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="33227:33250" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="34161:34239" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="34277:34467" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="35370:35420" placeholder="..." />
-              <marker date="1477784846442" expanded="true" signature="35893:35959" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="38171:38232" placeholder="{...}" />
-              <marker date="1477784846442" expanded="true" signature="41420:41470" placeholder="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="153">
+            <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
